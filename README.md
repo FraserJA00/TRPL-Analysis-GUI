@@ -42,5 +42,5 @@ where:
 - Pandas
 - Tkinter
 
-![GUI Screenshot}(screenshots/TRPL_GUI.png)
+![GUI Screenshot](screenshots/TRPL_GUI.png)
 
